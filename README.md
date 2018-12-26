@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Api Key
+
+In order to run this application you must add this project to the google developers console and follow the steps to generate credentials for the Youtube Data api. Once you have generated an Api key you can add it to the key variable located in the youtube.js file.
+
 ## Available Scripts
 
 In the project directory, you can run:
